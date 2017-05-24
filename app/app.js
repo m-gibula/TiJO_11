@@ -9,7 +9,7 @@ function getDescendingNumbers(start, stop)
     }
     return result;
 }
-for (var k = 0 ; k <  ; t++) {
+for (var k = 0 ; k < 5 ; k++) {
     conole.log("sdfsdfsd");
 }
 
