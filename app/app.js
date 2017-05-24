@@ -9,6 +9,9 @@ function getDescendingNumbers(start, stop)
     }
     return result;
 }
+for (var k = 0 ; k <  ; t++) {
+    conole.log("sdfsdfsd");
+}
 
 module.exports = {
     getDescendingNumbers: getDescendingNumbers
